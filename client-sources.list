@@ -1,0 +1,10 @@
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic main restricted
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic-updates main restricted
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic universe
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic-updates universe
+deb ftp://IP-OR-HOSTNAME/gb.archive.ubuntu.com/ubuntu/ bionic multiverse
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic-updates multiverse
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic-backports main restricted universe multiverse
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic-security main restricted
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic-security universe
+deb ftp://IP-OR-HOSTNAME/mirror/gb.archive.ubuntu.com/ubuntu/ bionic-security multiverse
